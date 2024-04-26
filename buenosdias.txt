@@ -1,2 +1,1 @@
-"keloke mi man" 
-"Errores solicionados." 
+"Error Solucionado" 
